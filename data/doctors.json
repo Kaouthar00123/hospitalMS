@@ -1,0 +1,36 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "full name": "ESSAHELI Kaouthar",
+      "number": "055555555",
+      "email": "email@gamil.com",
+      "speciality": "general medical",
+      "service": 700
+    },
+    {
+      "id": 2,
+      "full name": "ESSAHELI Maria",
+      "number": "055555555",
+      "email": "email@gamil.com",
+      "speciality": "Eye speciality",
+      "service": 120
+    },
+    {
+      "id": 3,
+      "full name": "RASSI Mohammed",
+      "number": "055555555",
+      "email": "email@gamil.com",
+      "speciality": "general medical",
+      "service": 345
+    },
+    {
+      "id": 4,
+      "full name": "RANA Leyna",
+      "number": "055555555",
+      "email": "test@gamil.com",
+      "speciality": "general health medical",
+      "service": 12
+    }
+  ]
+}

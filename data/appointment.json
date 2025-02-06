@@ -1,0 +1,28 @@
+{
+  "appo": [
+    {
+      "patientId": 1,
+      "doctorId": 1,
+      "problem": "heart ace",
+      "status": "Completed"
+    },
+    {
+      "patientId": 1,
+      "doctorId": 2,
+      "problem": "estomach",
+      "status": "Canceled"
+    },
+    {
+      "patientId": 2,
+      "doctorId": 4,
+      "problem": "prblm in eye",
+      "status": "Completed"
+    },
+    {
+      "patientId": 1,
+      "doctorId": 4,
+      "problem": "Covid",
+      "status": "Pending"
+    }
+  ]
+}

@@ -19,3 +19,21 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@layer components {
+  h2 {
+    @apply text-2xl font-semibold text-black m-2;
+  }
+  h3 {
+    @apply text-xl font-semibold text-black m-2;
+  }
+  .option-header {
+    @apply flex gap-1 justify-center align-middle items-center text-sm p-1 w-fit hover:bg-gray-50;
+  }
+  .option-header svg {
+    @apply w-[20px] h-[20px];
+  }
+  .option-header span {
+    @apply text-nowrap;
+  }
+}
